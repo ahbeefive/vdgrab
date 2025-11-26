@@ -1,0 +1,10 @@
+[
+  {
+    "desktopImage": "/images/banners/banner1.jpg",
+    "mobileImage": "/images/banners/banner1.jpg",
+    "link": "",
+    "duration": 5,
+    "transition": "fade",
+    "enabled": true
+  }
+]
